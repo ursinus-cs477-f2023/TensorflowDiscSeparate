@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="114.28709mm"
+   height="92.099091mm"
+   viewBox="0 0 114.28709 92.099091"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="architecture.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="195.54324"
+     inkscape:cy="264.23707"
+     inkscape:window-width="1850"
+     inkscape:window-height="1136"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.932152,-36.887845)">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.254648;stroke-opacity:1"
+       id="path846"
+       cx="39.644341"
+       cy="75.534424"
+       r="7.3726764" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.254648;stroke-opacity:1"
+       id="path846-3"
+       cx="39.471943"
+       cy="109.89081"
+       r="7.3726764" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.254648;stroke-opacity:1"
+       id="path846-6"
+       cx="84.238312"
+       cy="56.899345"
+       r="7.3726764" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.254648;stroke-opacity:1"
+       id="path846-7"
+       cx="84.705246"
+       cy="87.411308"
+       r="7.3726764" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.254648;stroke-opacity:1"
+       id="path846-5"
+       cx="85.422073"
+       cy="121.48694"
+       r="7.3726764" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 77.590466,58.439372 46.666565,75.018373 77.173081,86.93474"
+       id="path1223" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 46.666565,75.018373 31.84032,45.114277"
+       id="path1225" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 77.590464,58.439372 46.730943,109.50853 77.173081,86.93474"
+       id="path1227" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 46.730943,109.50853 31.775942,10.62412"
+       id="path1229" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="20.810196"
+       y="77.089073"
+       id="text2127"><tspan
+         sodipodi:role="line"
+         id="tspan2125"
+         style="stroke-width:0.264583"
+         x="20.810196"
+         y="77.089073">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="22.576096"
+       y="111.04798"
+       id="text2637"><tspan
+         sodipodi:role="line"
+         id="tspan2635"
+         style="stroke-width:0.264583"
+         x="22.576096"
+         y="111.04798">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="65.450752"
+       y="47.191265"
+       id="text4529"><tspan
+         sodipodi:role="line"
+         id="tspan4527"
+         style="stroke-width:0.264583"
+         x="65.450752"
+         y="47.191265">(Bottom right plot)</tspan></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.254648;stroke-opacity:1"
+       id="path846-7-3"
+       cx="125.92673"
+       cy="88.003891"
+       r="7.3726764" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="32.236561"
+       y="62.986988"
+       id="text7498"><tspan
+         sodipodi:role="line"
+         id="tspan7496"
+         style="stroke-width:0.264583"
+         x="32.236561"
+         y="62.986988">Input</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="69.552864"
+       y="40.104183"
+       id="text8396"><tspan
+         sodipodi:role="line"
+         id="tspan8394"
+         style="stroke-width:0.264583"
+         x="69.552864"
+         y="40.104183">Hidden Layer</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91.995994,88.675452 26.652366,0.01376"
+       id="path8689" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 92.653108,119.7809 118.64836,88.689211"
+       id="path8691" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 91.510526,58.212891 27.137834,30.47632"
+       id="path8886" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="120.6155"
+       y="73.17366"
+       id="text9827"><tspan
+         sodipodi:role="line"
+         id="tspan9825"
+         style="stroke-width:0.264583"
+         x="120.6155"
+         y="73.17366">Output</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="120.6155"
+         y="78.465324"
+         id="tspan9829">Label</tspan></text>
+  </g>
+</svg>

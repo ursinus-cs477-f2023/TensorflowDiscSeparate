@@ -58,7 +58,7 @@ xs.array().then(data => {
   // Create an arbitrary graph of layers, by connecting them
   // via the apply() method.
   const input = tf.input({shape: [2]});
-  const dense1 = tf.layers.dense({units: 10, activation: 'relu', useBias:true}).apply(input);
+  const dense1 = tf.layers.dense({units: 3, activation: 'relu', useBias:true}).apply(input);
   const dense2 = tf.layers.dense({units: 1, activation: 'relu', useBias:true}).apply(dense1);
   model = tf.model({inputs: input, outputs: dense2});
   //tfvis.show.modelSummary({name: 'Model Summary'}, model);
